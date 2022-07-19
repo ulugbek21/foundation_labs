@@ -5,7 +5,7 @@
 
 2. Now, there's a change on the remote repo which is not available in the local
    repo. How do we get those changes? Go to your local repo, and run a "pull"
-   command: `git pull origin main`.
+   command: `git pull origin master`.
 
 3. Create three files named `file1.txt`, `file2.txt`, and `file3.txt` in your
    local repository. Add some text to each one.
