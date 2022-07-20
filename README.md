@@ -12,3 +12,7 @@ Workshops and tasks for UAcademy foundation course.
 
 - [Git](lesson_2/git.md)
 - [Git challenge](lesson_2/git_challenge.md)
+
+## Lesson 3
+
+- [UAcademy HTML Crash Course: Part 1](https://github.com/ulugbek21/foundation-html/tree/part-1)
