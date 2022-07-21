@@ -16,3 +16,8 @@ Workshops and tasks for UAcademy foundation course.
 ## Lesson 3
 
 - [UAcademy HTML Crash Course: Part 1](https://github.com/ulugbek21/foundation-html/tree/part-1)
+
+
+## Lesson 4
+
+- [UAcademy HTML Crash Course: Part 2](https://github.com/ulugbek21/foundation-html/tree/part-2)
