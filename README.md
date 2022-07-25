@@ -25,3 +25,7 @@ Workshops and tasks for UAcademy foundation course.
 ## Lesson 5
 
 - [UAcademy HTML/CSS/JS Crash Course: Part 3](https://github.com/ulugbek21/foundation-html/tree/part-3)
+
+## Lesson 6
+- [UAcademy HTML/CSS/JS Crash Course: Part 4](https://github.com/ulugbek21/foundation-html/tree/part-4)
+- [Project: Calculator](https://github.com/ulugbek21/calculator)
