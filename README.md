@@ -32,3 +32,4 @@ Workshops and tasks for UAcademy foundation course.
 
 ## Lesson 7
 - [Node JS Introduction](https://github.com/foundersandcoders/Node-Intro-Workshop/blob/master/mentor-notes/node-code-along-walkthrough.md)
+- [Node JS Tutorial](https://github.com/ulugbek21/nodejs-tutorial)
