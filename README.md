@@ -37,3 +37,12 @@ Workshops and tasks for UAcademy foundation course.
 ## Lesson 8
 - [Node JS Tutorial: Part 2](https://github.com/ulugbek21/nodejs-tutorial/tree/part-2)
 - [Node JS & Express Tutorial](https://github.com/ulugbek21/express)
+
+## Lesson 9
+- [Express Day 2 Tutorial](https://github.com/ulugbek21/express-day-2)
+
+## Lesson 10
+- [Express Day 2 Tutorial (POST request with HTML form)](https://github.com/ulugbek21/express-day-2)
+
+## Lesson 11
+- [REST API](https://github.com/ulugbek21/restapi-nodejs)
