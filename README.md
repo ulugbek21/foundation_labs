@@ -45,4 +45,8 @@ Workshops and tasks for UAcademy foundation course.
 - [Express Day 2 Tutorial (POST request with HTML form)](https://github.com/ulugbek21/express-day-2)
 
 ## Lesson 11
-- [REST API](https://github.com/ulugbek21/restapi-nodejs)
+- [REST API](https://github.com/ulugbek21/restapi-nodejs/tree/part-1)
+
+## Lesson 12
+- [REST API](https://github.com/ulugbek21/restapi-nodejs/tree/part-2)
+- [REST API Challenge](./lesson_12/challenge.md)
