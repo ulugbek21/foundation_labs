@@ -55,4 +55,4 @@ Workshops and tasks for UAcademy foundation course.
 - [Students REST API: Saving in JSON file in POST, PUT, PATCH, DELETE requests](https://github.com/ulugbek21/students-rest-api-node-js/tree/part-1)
 
 ## Lesson 14
-- [Students REST API: Reading students from JSON files](https://github.com/ulugbek21/students-rest-api-node-js/tree/part-2)
+- [Students REST API: Reading students from JSON file](https://github.com/ulugbek21/students-rest-api-node-js/tree/part-2)
