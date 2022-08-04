@@ -52,4 +52,7 @@ Workshops and tasks for UAcademy foundation course.
 - [REST API Challenge](./lesson_12/challenge.md)
 
 ## Lesson 13
-- [Students REST API: Saving in JSON file in POST request](https://github.com/ulugbek21/students-rest-api-node-js/tree/part-1)
+- [Students REST API: Saving in JSON file in POST, PUT, PATCH, DELETE requests](https://github.com/ulugbek21/students-rest-api-node-js/tree/part-1)
+
+## Lesson 14
+- [Students REST API: Reading students from JSON files](https://github.com/ulugbek21/students-rest-api-node-js/tree/part-2)
