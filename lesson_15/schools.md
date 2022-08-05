@@ -8,7 +8,7 @@
 6. Create GET method to get filetered schools by district.
 7. Create PUT method to update a single school by **`id`**.
 8. Create DELETE method to delete a school by **`id`**.
-9. All data should be retrived from a file.
+9. All data should be retrieved from a file.
 10. All data should be saved in a file.
 11. All fields of data should be validated.
 11. (Optional) Organize project layout into folders (e.g. `controllers`, `helpers` etc.)
