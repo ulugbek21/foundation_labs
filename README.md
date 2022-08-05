@@ -56,3 +56,7 @@ Workshops and tasks for UAcademy foundation course.
 
 ## Lesson 14
 - [Students REST API: Reading students from JSON file](https://github.com/ulugbek21/students-rest-api-node-js/tree/part-2)
+
+## Lesson 15
+- [Students REST API: Validation & Project layout](https://github.com/ulugbek21/students-rest-api-node-js/tree/part-3)
+- [Schools REST API Challenge](./lesson_15/schools.md)
