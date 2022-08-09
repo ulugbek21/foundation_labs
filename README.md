@@ -60,3 +60,6 @@ Workshops and tasks for UAcademy foundation course.
 ## Lesson 15
 - [Students REST API: Validation & Project layout](https://github.com/ulugbek21/students-rest-api-node-js/tree/part-3)
 - [Schools REST API Challenge](./lesson_15/schools.md)
+
+## Final project
+- [Final project](./final_project/final_project.md)
