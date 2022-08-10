@@ -62,7 +62,7 @@ Example:
   "created_at": "2022-03-26T09:08:44.000000Z"
 }
 ```
-3. Create and Update APIs for **rental_infos**.
+3. Create API for **rental_infos**.
 ```
 rental_info: {
     customer_id: int,
